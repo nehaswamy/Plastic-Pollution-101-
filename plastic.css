@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono');
+@import url('https://fonts.googleapis.com/css?family=Abel');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans+Narrow');
+
+a {
+	text-decoration: none; 
+	color: white;
+	font-family: "Roboto"; 
+}
+
+a:hover {
+	background-color: #88D3EE;
+}
+
+#contents {
+	font-family: "Roboto";
+	font-size: 20px;
+	padding: 2em;
+	color: white;
+}
+
+a {
+	text-decoration: none; 
+}
+
+a:hover {
+	background-color: #8FEEFF;
+}
+
+.main-div {
+	margin-left: 100px;
+	margin-right: 100px;
+	background-color: #fff;
+	opacity: 0.9;
+	color: black;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
+
+p, li, ul {
+	font-family: "Roboto"; 
+	font-size: 20px;
+}
+
+li, ul {
+	padding-bottom: 1em;
+}
+
+h1, h6, h4, h5 {
+	font-family: "Roboto"; 
+}
+
+
+.footer {
+	position: fixed;
+  	left: 0;
+  	bottom: 0;
+  	width: 100%;
+  	color: black;
+  	font-family: "Roboto"; 
+  	background-color: white; 
+}
+
+::selection {
+	background-color: #FFD4F4; 
+}
+
+#bitcamp {
+	color: #FF9647;
+}
+
+.footer-other {
+  	width: 100%;
+  	color: black;
+  	font-family: "Roboto"; 
+  	background-color: white; 
+  	bottom: 0;
+  	padding-top: 1rem;
+}
+
+.bottom-a {
+	color: black;
+}
+
+.bottom-h5 {
+	color: black;
+}
+
+#title {
+	font-family: "Abel";
+}
+
+#page-container {
+  	min-height: 100%; 
+}
+#content-wrap {
+  	padding-bottom: 2.5rem;  
+
+}
+html, body {
+	height: 100%;
+	margin: 0;
+}
